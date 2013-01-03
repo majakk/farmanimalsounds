@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Farm Animal Sounds</string>
+	<string name="about">\n
+    Invisible App - Space filler or Prank, it\'s your imagination that sets the limit!
+    \n\n
+    Please send comments or report bugs to:
+    \n
+	studio.coldstream@gmail.com\n
+	\n
+	\n
+	\n
+	Support a Developer:
+    </string>
+    
+</resources>
